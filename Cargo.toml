@@ -1,5 +1,5 @@
 [package]
-name = "Axum_Rust"
+name = "axum_rust"
 version = "0.1.0"
 authors = ["Bishoy Boktor <bishoyboktor@gmail.com>"]
 edition = "2018"
