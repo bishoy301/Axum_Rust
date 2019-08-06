@@ -26,6 +26,7 @@ fn main() {
         .maximized()
         .build()
         .unwrap();
+
     let _gl_context = window.gl_create_context().unwrap();
     gl::load_with(|name| video_subsystem.gl_get_proc_address(name) as *const _);
 
